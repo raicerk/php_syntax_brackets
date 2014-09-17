@@ -1,0 +1,1 @@
+PHP syntax es un plugins que te permitira autocompletar las funciones basicas de php, ademas te permitira personalizar el plugins agregando nuevas funciones, para poder realizar esto solo debes ir al menu ayuda > abrir carpetas de extenciones > user > php_syntax_brackets > php_syntax.txt y agregar todas las funciones que necesites
